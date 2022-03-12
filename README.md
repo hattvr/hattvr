@@ -13,6 +13,6 @@
 | <a href="https://www.instagram.com/hattvr/"><img src="https://i.imgur.com/xmmOcyn.png" width="15"></a>
 | <a href="https://www.behance.net/hattvr"><img src="https://cdn.iconscout.com/icon/free/png-256/behance-2506762-2100662.png" width="15"></a><br>
 </p>
-<p style="text-align:center;"><img src="https://discord.c99.nl/widget/theme-2/188109365671100416.png" width="">
+<p style="text-align:center;"><img src="https://discord.c99.nl/widget/theme-2/188109365671100416.png" width=""><br>
 <a align="center">[</a><strong>188109365671100416</strong><a>]</a>
 </p>
