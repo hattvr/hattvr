@@ -1,4 +1,5 @@
-<center><img src="https://i.imgur.com/Vrj7p8y.png"><br>
+<center>
+<img src="https://i.imgur.com/Vrj7p8y.png"><br>
 <img src="/github-metrics.svg" alt="Metrics" width="1034"><br>
 <a>[</a> hatter <a> ☨ </a> ♎︎ <a> ☨ </a> 20 <a> ☨ </a> ♂ <a> ☨ </a> he/him <a>]</a>
 <p>┈     ┈     ┈     ⋞ 〈 <a>⏣</a>〉 ⋟     ┈     ┈     ┈</p>
