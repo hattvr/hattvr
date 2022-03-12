@@ -5,6 +5,7 @@
 <p>┈     ┈     ┈     ⋞ 〈 <a>⏣</a>〉 ⋟     ┈     ┈     ┈</p>
 <p><strong><em>instead of brain, there is only sasuke</em></strong><br>[<a href="https://hattvr.carrd.co/"> carrd </a>]</p>
 <p>┈     ┈     ┈     ⋞ 〈 <a><strong><em>socials</em></strong></a>〉 ⋟     ┈     ┈     ┈</p>
+<center>
 <a href="https://open.spotify.com/user/onp0rztbozts40r6zn052fqs9"> <img src="https://cdn.iconscout.com/icon/free/png-512/spotify-11-432546.png" width="15"></a>
 | <a href="https://twitter.com/hattvr"><img src="https://i.imgur.com/TkLujRc.png" width="15"> </a>
 | <a href="https://discord.com/invite/6cDYfvpUZB"><img src="https://i.imgur.com/9tWKQD4.png" width="15"></a>
