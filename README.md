@@ -10,9 +10,9 @@
 | <a href="https://twitter.com/hattvr"><img src="https://i.imgur.com/TkLujRc.png" width="15"> </a>
 | <a href="https://discord.com/invite/6cDYfvpUZB"><img src="https://i.imgur.com/9tWKQD4.png" width="15"></a>
 | <a href="https://www.instagram.com/hattvr/"><img src="https://i.imgur.com/xmmOcyn.png" width="15"></a>
-| <a href="https://www.behance.net/hattvr"><img src="https://cdn.iconscout.com/icon/free/png-256/behance-2506762-2100662.png" width="15"></a><br>
+| <a href="https://www.behance.net/hattvr"><img src="https://cdn.iconscout.com/icon/free/png-256/behance-2506762-2100662.png" width="15"></a>
 </center>
 <img align="center" src="https://i.imgur.com/YhAXs3d.png" width=""><br>
 <img align="center" src="https://discord.c99.nl/widget/theme-2/188109365671100416.png" width=""><br>
-<a align="center">[</a><strong>188109365671100416</strong><a>]</a>
+<center><a>[</a><strong>188109365671100416</strong><a>]</a></center>
 </p>
