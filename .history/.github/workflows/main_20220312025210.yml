@@ -18,8 +18,7 @@ jobs:
           user: hattvr
           template: classic
           base: header, activity, repositories, metadata
-          config_display: large
-          config_timezone: America/New_York
+          config_timezone: Asia/Calcutta
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
