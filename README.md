@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/Vrj7p8y.png"><br>
-
+<a align="center">
 <p align="center">
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="1034"><br>
 <a>[</a> hatter <a> ☨ </a> ♎︎ <a> ☨ </a> 20 <a> ☨ </a> ♂ <a> ☨ </a> he/him <a>]</a>
@@ -14,4 +14,4 @@
 <img src="https://i.imgur.com/YhAXs3d.png" width=""><br>
 <img src="https://discord.c99.nl/widget/theme-2/188109365671100416.png" width=""><br>
 <a>[</a><strong>188109365671100416</strong><a>]</a>
-</p>
+</a></p>
