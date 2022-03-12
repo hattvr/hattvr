@@ -13,4 +13,3 @@
 <img src="https://i.imgur.com/YhAXs3d.png" width=""><br>
 <img src="https://discord.c99.nl/widget/theme-2/188109365671100416.png" width=""><br>
 <a>[</a><strong>188109365671100416</strong><a>]</a>
-</center>
