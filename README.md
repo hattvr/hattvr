@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/Vrj7p8y.png"><br>
 <p align="center">
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="1034"><br>
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="1000"><br>
 <a align="center">[</a> hatter <a> ☨ </a> ♎︎ <a> ☨ </a> 20 <a> ☨ </a> ♂ <a> ☨ </a> he/him <a>]</a>
 <p align="center">┈     ┈     ┈     ⋞ 〈 <a>⏣</a>〉 ⋟     ┈     ┈     ┈</p>
 <p align="center"><strong><em>instead of brain, there is only sasuke</em></strong><br>[<a href="https://hattvr.carrd.co/"> carrd </a>]</p>
