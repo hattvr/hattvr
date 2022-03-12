@@ -43,5 +43,3 @@ jobs:
           plugin_anilist_limit_characters: 5
           plugin_anilist_shuffle: yes
           plugin_anilist_user: hatter
-
-          
