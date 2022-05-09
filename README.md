@@ -15,5 +15,14 @@ I am a 20 year old self-taught developer and graphic designer from America. I st
 * [Genshin Wizard Discord | Genshin Wish Tracker](https://www.discord.gg/genshinwizard)
 * [SwiftRU Discord | Rutgers Course Sniper](https://discord.gg/uwRVJzUGjy)
 
+## What are my favorite languages?
+* Python
+* Java
+
+## What are my goals?
+* Become a well-versed developer
+* Learn more programming languages (js, golang, etc.)
+* Help others achieve their goals
+
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 <p align="center"><img src="https://i.imgur.com/6q847K7.png" width="100%"></p>
