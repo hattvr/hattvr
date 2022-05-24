@@ -8,7 +8,6 @@ I am a 20 year old self-taught developer and graphic designer from America. I st
 * Minor in Business Administration
 
 ## Contact me
-* School Email: [zaeem.z@rutgers.edu](mailto:zaeem.z@rutgers.edu?subject=[Github]%20Placeholder%20Subject%20Text)
 * [Website](https://www.hattvr.com)
 * [Behance Portfolio](https://www.behance.net/hattvr)
 * [Twitter](https://www.twitter.com/hattvr)
