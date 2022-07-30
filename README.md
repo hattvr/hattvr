@@ -11,7 +11,7 @@ I am a 20 year old self-taught developer and graphic designer from America. I st
 * [Website](https://www.hattvr.com)
 * [Behance Portfolio](https://www.behance.net/hattvr)
 * [Twitter](https://www.twitter.com/hattvr)
-* [Genshin Wizard Discord | Genshin Wish Tracker](https://www.discord.gg/genshinwizard)
+* [Genshin Wizard](https://www.genshinwizard.com)
 * [SwiftRU Discord | Rutgers Course Sniper](https://discord.gg/uwRVJzUGjy)
 
 ## What are my favorite languages?
