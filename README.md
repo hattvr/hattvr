@@ -23,5 +23,7 @@ I am a 20 year old self-taught developer and graphic designer from America. I st
 * Learn more programming languages (js, golang, etc.)
 * Help others achieve their goals
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L3CYNQX)
+
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 <p align="center"><img src="https://i.imgur.com/6q847K7.png" width="100%"></p>
