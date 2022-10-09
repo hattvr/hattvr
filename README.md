@@ -2,7 +2,7 @@
 <h1 align="center">Hey! I'm Hatter 👋</h1>
 
 ## **About me**  
-I am a 20 year old self-taught developer and graphic designer from America. I started designing roughly 10 years ago back in 2012, and coding about 8 years ago back in 2014. Over the years I have explored various different areas of design and coding and I am highly experienced in several different languages/designing forms.
+I am a 21 year old self-taught developer and graphic designer from America. I started designing roughly 10 years ago back in 2012, and coding about 8 years ago back in 2014. Over the years I have explored various different areas of design and coding and I am highly experienced in several different languages/designing forms.
 * Junior at Rutgers University | New Brunswick
 * Major in Computer Science
 * Minor in Business Administration
