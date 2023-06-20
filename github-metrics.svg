@@ -181,7 +181,7 @@
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="540.2603033837339" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="540.2603033837339" y="0" width="177.31507847278408" height="8" fill="#3be133"/>
+                    <rect mask="url(#languages-bar)" x="540.2603033837339" y="0" width="177.31507847278408" height="8" fill="#ef7a08"/>
                     <rect mask="url(#languages-bar)" x="717.575381856518" y="0" width="93.42327669843405" height="8" fill="#74283c"/>
                     <rect mask="url(#languages-bar)" x="810.998658554952" y="0" width="74.44249473754259" height="8" fill="#dc566d"/>
                     <rect mask="url(#languages-bar)" x="885.4411532924945" y="0" width="34.55884670750544" height="8" fill="#b07219"/>
@@ -195,7 +195,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3be133" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#ef7a08" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         OCaml
                     </div>
@@ -1657,7 +1657,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.11m out of 409m repositories</span>
+                                    <span class="gh">ranked 3.20m out of 409m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>
@@ -1828,7 +1828,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jun 2023, 04:10:22 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 Jun 2023, 05:08:02 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
