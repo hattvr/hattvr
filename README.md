@@ -8,7 +8,7 @@ I am a 21 year old self-taught developer and graphic designer from America. I st
 * Minor in Business Administration
 
 ## Contact me
-* [Website](https://www.hattvr.com)
+* [Website](https://www.zaeemz.com)
 * [Behance Portfolio](https://www.behance.net/hattvr)
 * [Twitter](https://www.twitter.com/hattvr)
 * [Genshin Wizard](https://www.genshinwizard.com)
