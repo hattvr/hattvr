@@ -8,7 +8,7 @@ I am a 22-year-old self-taught developer and graphic designer from America. I st
 * Minor in Business Administration
 
 ## Contact me
-* [Website](https://www.zaeemz.com)
+* [Personal Resume Portfolio/Website](https://www.zaeemz.com)
 * [Genshin Wizard](https://www.genshinwizard.com)
 * [SwiftRU Discord | Rutgers Course Sniper](https://www.swiftru.me)
 
