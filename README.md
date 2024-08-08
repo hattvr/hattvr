@@ -1,16 +1,17 @@
-<h1 align="center">Hey! I'm Zaeem 👋</h1>
+### Hey! I'm Zaeem 👋
 
-## **About me**  
-I am a 22-year-old self-taught developer and graphic designer from America. I started designing roughly 10 years ago back in 2012, and coding about 8 years ago back in 2014. Over the years I have explored various different areas of design and coding and I am highly experienced in several different languages/designing forms.
-* Associate Application Developer for ADP
-* Graduated from Rutgers University | New Brunswick
-* Major in Computer Science
-* Minor in Business Administration
+#### About Me
+I'm a self-taught developer and graphic designer from the U.S. My journey in design began over a decade ago in 2012, and I started coding a couple of years later in 2014. Throughout the years, I've delved into various aspects of design and development, gaining extensive experience in multiple languages and design disciplines.
+
+- **Associate Application Developer at ADP**
+- **Graduate of Rutgers University, New Brunswick**
+  - **Major:** Computer Science
+  - **Minor:** Business Administration
 
 ## Contact me
-* [Personal Resume Portfolio/Website](https://www.zaeemz.com)
+* [Personal Website](https://www.zaeemz.com)
 * [Genshin Wizard](https://www.genshinwizard.com)
-* [SwiftRU Discord | Rutgers Course Sniper](https://www.swiftru.me)
+* [Rutgers Course Sniper](https://www.swiftru.me)
 
 ## What are my favorite languages?
 * Python
@@ -18,7 +19,7 @@ I am a 22-year-old self-taught developer and graphic designer from America. I st
 
 ## What are my goals?
 * Become a well-versed developer
-* Learn more programming languages (js, golang, etc.)
+* Learn more programming languages (ts, golang, etc.)
 * Help others achieve their goals
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L3CYNQX)
