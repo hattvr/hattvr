@@ -1,7 +1,7 @@
 ### Hey! I'm Zaeem 👋
 
 #### About Me
-I'm a self-taught developer and graphic designer from the U.S. My journey in design began over a decade ago in 2012, and I started coding a couple of years later in 2014. Throughout the years, I've delved into various aspects of design and development, gaining extensive experience in multiple languages and design disciplines.
+I'm a self-taught developer from the U.S. My journey in coding began in 2014. Throughout the years, I've delved into various aspects of development, gaining extensive experience in multiple languages.
 
 - **Associate Application Developer at ADP**
 - **Graduate of Rutgers University, New Brunswick**
