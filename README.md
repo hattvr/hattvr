@@ -11,7 +11,7 @@ I'm a self-taught developer from the U.S. My journey in coding began in 2014. Th
 ## Contact me
 * [Personal Website](https://www.zaeemz.com)
 * [Genshin Wizard](https://www.genshinwizard.com)
-* [Rutgers Course Sniper](https://www.swiftru.me)
+* [Rutgers Course Sniper](https://www.swiftru.com)
 
 ## What are my favorite languages?
 * Python
